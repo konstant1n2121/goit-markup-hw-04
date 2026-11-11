@@ -1,0 +1,17 @@
+.footer {
+  padding: 100px 0;
+  background-color: #2e2f42;
+}
+.footer-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33333;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+}
+.footer-text {
+  padding-top: 16px;
+  width: 264px;
+  color: #f4f4fd;
+}

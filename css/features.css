@@ -1,0 +1,22 @@
+.subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.features {
+}
+
+.ul-box {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.subtitle {
+  margin-bottom: 8px;
+}
+.features-item {
+  width: 264px;
+}

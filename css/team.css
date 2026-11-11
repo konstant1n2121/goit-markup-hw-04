@@ -1,0 +1,35 @@
+.team {
+  background-color: #f4f4fd;
+}
+.section-title {
+  padding-bottom: 72px;
+}
+.team-items {
+  display: flex;
+  gap: 24px;
+}
+.team-card {
+  border-radius: 0 0 4px 4px;
+  background-color: #fff;
+}
+.team-about {
+  padding: 32px 16px;
+}
+.team-name {
+  padding-bottom: 8px;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-position {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
